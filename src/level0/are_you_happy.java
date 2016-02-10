@@ -1,3 +1,4 @@
+package level0;
 import javax.swing.JOptionPane;
 
 public class are_you_happy {

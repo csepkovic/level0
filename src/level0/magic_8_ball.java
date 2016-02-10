@@ -1,3 +1,4 @@
+package level0;
 
 // Copyright Wintriss Technical Schools 2013
 import java.util.Random;
