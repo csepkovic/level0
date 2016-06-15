@@ -5,7 +5,7 @@ import java.util.Random;
 
 import javax.swing.JOptionPane;
 
-public class magic_8_ball {
+public class Magic8Ball {
 
 	// 1. Make a main method that includes all the steps below….
 	public static void main(String[] args) {
